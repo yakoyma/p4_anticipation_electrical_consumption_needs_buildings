@@ -36,7 +36,7 @@ La source des données est la suivante : https://data.seattle.gov/dataset/2016-B
   - La sélection du modèle supervisé adapté au problème métier ;
   - L'interprétabilité globale et locale du modèle ;
   - L'optimisation des hyperparamètres du modèle par validation croisée ;
-  - La prédiction du modèle avec les hyperparamètres optimisés ;
-  - La prédiction de valeurs réelles des variables cibles (en bonus).
+  - La prédiction des valeurs normalisées des variables cibles par le modèle avec les hyperparamètres optimisés ;
+  - La prédiction des valeurs réelles des variables cibles par le modèle avec les hyperparamètres optimisés (en bonus).
 
 
